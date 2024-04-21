@@ -1,0 +1,111 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #FAE0E4;
+}
+ul {
+    display: flex;
+    list-style: none;
+    gap: 9%;
+    font-size: 2rem;
+    font-weight: 600;
+
+    
+}
+ 
+.gg-menu{
+    margin-top: 18px;
+}
+
+nav{
+    margin-left: 4%;
+    margin-right: 4%;
+    margin-top: 1%;
+}
+
+#sjs{
+   background-color: #FFAFCC; 
+   height: 400px;
+   width: 400px;
+   position: absolute;
+   border-radius: 100%;
+   translate: 150% 30%;
+
+
+}
+
+.fgh {
+    background-color: #FFAFCC; 
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    border-radius: 100%;
+    translate: 400% 70%;
+  
+}
+
+.rty{
+    background-color: #FFAFCC; 
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    border-radius: 100%;
+    translate: 600% 500%;
+   
+}
+
+.c1{
+    background-color: #FFAFCC; 
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    border-radius: 100%;
+    translate: 2200% 300%;
+   
+}
+img{
+    position: absolute;
+    height: auto;
+    width: 500px;
+    translate: 110% 10%;
+}
+
+.t1{
+    font-family: "Lemonada", cursive;
+    position: absolute;
+    translate: 100% 200%;
+    font-weight: 50px;
+    font-size: 50px;
+}
+
+.t2{
+    font-family: "Kalam", cursive;
+    position: absolute;
+    translate: 10% 340%;
+    font-weight: 50px;
+    font-size: 50px;
+}
+span{
+    font-family: "Italianno", cursive;
+    position: absolute;
+    translate: 1% 50%;
+    font-weight: 400px;
+    font-size: 100px;
+    margin-left: -250px;
+}
+button {
+    background-color: #FFAFCC;
+    border-radius: 100px;
+    font-weight: 400px;
+    font-size: 40px;
+    font-family: "Lemonada", cursive;
+    width: 200px;
+    float: right;
+    position: relative;
+    margin-top: 550px;
+    margin-right: 40px;
+}
